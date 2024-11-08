@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JiinSeok
 - 👀 I’m interested in ... Git, Next.js, TypeScript
-- 🌱 I’m currently learning Next.js, TypeScript
 
 <!---
+- 🌱 I’m currently learning Next.js, TypeScript
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
 - 😄 Pronouns: ... JI-IN
