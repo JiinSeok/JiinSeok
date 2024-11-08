@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JiinSeok
-- 👀 I’m interested in ... Git, 워크플로우
-- 🌱 I’m currently learning ... 리액트, 넥스트, 타입스크립트
+- 👀 I’m interested in ... Git, Next.js, TypeScript
+- 🌱 I’m currently learning Next.js, TypeScript
 
 <!---
 - 💞️ I’m looking to collaborate on ... 
