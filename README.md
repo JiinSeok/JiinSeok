@@ -4,13 +4,11 @@
 
 :fairy_woman: a frontend developer with a knack for uncovering problems and weaving them into **clean & magical** solutions :fairy_woman:
 
-### 🥳 Let's Connect!
-
 Always on the lookout for great plugins :gear: and switches! :keyboard: Any favorites to share? <br>
 **Feel free to reach me at** [**seokjiin1073@gmail.com**](mailto:seokjiin1073@gmail.com) <br>
 **And JetBrains users and tactile switch lovers, you're especially welcome** :white_heart: <br>
 
-**Fun fact:** I used to be a QA engineer, and I still obsess over seamless user experiences!
+**Fun fact:** I used to be a QA engineer, and I still obsess over **seamless** user experiences!
 
 
 ### 😌️ Summary of my skills:
@@ -41,7 +39,5 @@ Always on the lookout for great plugins :gear: and switches! :keyboard: Any favo
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiinSeok&card_width=410&layout=compact&langs_count=4&hide_title=true&theme=transparent&hide_border=true&display_format=time&title_color=181717&text_color=929292" alt="Top Languages">
 </p>
-
----
 
 :genie: Excited to connect and craft **clean & magical** experiences together! :genie:
