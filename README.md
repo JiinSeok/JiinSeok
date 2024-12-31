@@ -4,9 +4,9 @@
 
 :fairy_woman: _a frontend developer with a knack for uncovering problems and weaving them into **clean & magical** solutions_ :fairy_woman:
 
-Always on the lookout for great plugins :gear: and switches! :keyboard: Any favorites to share? <br>
+And always on the lookout for great plugins :gear: and switches! :keyboard: Any favorites to share? <br>
 **Feel free to reach me at** [**seokjiin1073@gmail.com**](mailto:seokjiin1073@gmail.com) <br>
-**And JetBrains users and tactile switch lovers, you're especially welcome** :white_heart: <br>
+JetBrains users and tactile switch lovers, you're especially welcome :white_heart: <br>
 
 **Fun fact:** I used to be a QA engineer, and I still obsess over **seamless** user experiences!
 
@@ -41,3 +41,4 @@ Always on the lookout for great plugins :gear: and switches! :keyboard: Any favo
 </p>
 
 :genie: _Excited to connect and craft **clean & magical** experiences together!_ :genie:
+
