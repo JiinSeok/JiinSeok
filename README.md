@@ -89,12 +89,5 @@ JetBrains users and tactile switch lovers, you're especially welcome :white_hear
 - 🌍 **Exploring**: Accessibility (making sure digital information is accessible through every possible way)
 
 
-### 🤓 What I've been working on:
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=JiinSeok&card_width=400&layout=compact&hide_title=true&rank_icon=percentile&text_bold=false&hide_border=true&theme=transparent&title_color=181717&icon_color=181717&text_color=929292&hide=stars,contribs&show=reviews,discussions_started,prs_merged_percentage" alt="GitHub Stats">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiinSeok&card_width=410&layout=compact&langs_count=4&hide_title=true&theme=transparent&hide_border=true&display_format=time&title_color=181717&text_color=929292" alt="Top Languages">
-</p>
-
 :genie: _Excited to connect and craft **clean & magical** experiences together!_ :genie:
 
