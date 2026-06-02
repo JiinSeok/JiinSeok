@@ -15,7 +15,7 @@
 npm i @jiin.seok/formkit-react
 ```
 
-## 특징
+### 특징
 - 🎯 **Compound Component Pattern**으로 깔끔한 API
 - 🔒 **비밀번호 토글 & 비밀번호 일치 검증** 자동 생성
 - ✅ **Zod 스키마** 지원 (선택사항)
@@ -23,20 +23,20 @@ npm i @jiin.seok/formkit-react
 - ♿ **접근성** 완벽 지원 (ARIA 자동 처리)
 - 🎛️ **고급 Select** 컴포넌트 (Radix UI 활용)
 
-## 이럴 때 추천
-- useState 10개 선언하다 지칠 때 😵‍💫
-- form validation 때문에 머리 아플 때 😭  
-- 비밀번호 토글 버튼 매번 만들기 귀찮을 때 🔄
-- 급해서 새 라이브러리 배울 시간 없을 때 ⏰
+### 이럴 때 추천
+- 😵‍💫 useState 10개 선언하다 지칠 때 
+- 😭 form validation 때문에 머리 아플 때   
+- 🔄 비밀번호 토글 버튼 매번 만들기 귀찮을 때 
+- ⏰ 급해서 새 라이브러리 배울 시간 없을 때 
 
-## 자동화
+### 자동화
 ```tsx
 <FormKit.Input type="password" />        // 토글 자동 생성
 <FormKit.Input name="confirmPassword" /> // 비밀번호 일치 자동 검증
 ```
 
 **비하인드**
-사전과제 하다 너무 발전해버린 케이스...! 😅
+사전과제 하다 너무 발전해버린 케이스...!
 많은 관심과 피드백 부탁드립니다!
 
 ### 사용 예시
@@ -67,7 +67,7 @@ JetBrains users and tactile switch lovers, you're especially welcome :white_hear
 **Fun fact:** I used to be a QA engineer, and I still obsess over **seamless** user experiences!
 
 
-### 😌️ Summary of my skills:
+### Summary of my skills:
 - **Languages & Frameworks**
 
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -82,7 +82,7 @@ JetBrains users and tactile switch lovers, you're especially welcome :white_hear
   <img alt="Figma" src="https://img.shields.io/badge/Figma-FF7262?style=flat-square&logo=Figma&logoColor=white" />
 
 
-### 😛 Currently working on:
+### Currently working on:
 
 - 🛠 **Refactoring**: Improving my Next.js + TypeScript applications
 - 📖 **Learning**: Diving into HTTP concepts
