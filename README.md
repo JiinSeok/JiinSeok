@@ -8,8 +8,8 @@
 
 **FormKit React** - React 폼 라이브러리가 드디어 공개되었습니다!
 
-📦 **npm**: https://www.npmjs.com/package/@jiin.seok/formkit-react
-☁️ **github**: https://github.com/JiinSeok/formkit-react
+- 📦 **npm**: https://www.npmjs.com/package/@jiin.seok/formkit-react
+- ☁️ **github**: https://github.com/JiinSeok/formkit-react
 
 ```bash
 npm i @jiin.seok/formkit-react
