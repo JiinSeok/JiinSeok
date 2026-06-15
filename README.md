@@ -57,6 +57,11 @@ Come here to get updates!
 - 📦 **npm**: https://www.npmjs.com/package/@jiin.seok/formkit-react
 - ☁️ **github**: https://github.com/JiinSeok/formkit-react
 
+**비하인드**
+
+사전과제 하다 너무 발전해버린 케이스...!
+많은 관심과 피드백 부탁드립니다!
+
 ```bash
 npm i @jiin.seok/formkit-react
 ```
@@ -80,10 +85,6 @@ npm i @jiin.seok/formkit-react
 <FormKit.Input type="password" />        // 토글 자동 생성
 <FormKit.Input name="confirmPassword" /> // 비밀번호 일치 자동 검증
 ```
-
-**비하인드**
-사전과제 하다 너무 발전해버린 케이스...!
-많은 관심과 피드백 부탁드립니다!
 
 ### 사용 예시
 
