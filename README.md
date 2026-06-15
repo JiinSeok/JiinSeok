@@ -54,13 +54,13 @@ Come here to get updates!
 
 **FormKit React** - React 폼 라이브러리가 드디어 공개되었습니다!
 
+사전과제 하다 너무 발전해버린 케이스...!
+많은 관심과 피드백 부탁드립니다!
+
 - 📦 **npm**: https://www.npmjs.com/package/@jiin.seok/formkit-react
 - ☁️ **github**: https://github.com/JiinSeok/formkit-react
 
-**비하인드**
 
-사전과제 하다 너무 발전해버린 케이스...!
-많은 관심과 피드백 부탁드립니다!
 
 ```bash
 npm i @jiin.seok/formkit-react
