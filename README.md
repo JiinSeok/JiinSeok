@@ -2,7 +2,7 @@
   Hi, I'm Jiin Seok from Korea 😽
 </h2>
 
-:fairy_woman: _a frontend developer with a knack for uncovering problems and weaving them into **clean & magical** solutions_ :fairy_woman:
+:fairy_woman: _a frontend & BFF developer with a knack for uncovering problems and weaving them into **clean & magical** solutions_ :fairy_woman:
 
 And always on the lookout for great plugins :gear: and switches! :keyboard: Any favorites to share? <br>
 **Feel free to reach me at** [**seokjiin1073@gmail.com**](mailto:seokjiin1073@gmail.com) <br>
