@@ -32,8 +32,8 @@ JetBrains users and tactile switch lovers, you're especially welcome :white_hear
 
 ### Currently working on:
 
-- 🛠 **Refactoring**: Improving my Next.js + TypeScript applications
-- 📖 **Learning**: Diving into HTTP concepts
+- 🛠 **Developing**: Improving my Swift application
+- 📖 **Learning**: Diving into Elixer!
 - 🌍 **Exploring**: Accessibility (making sure digital information is accessible through every possible way)
 
 
