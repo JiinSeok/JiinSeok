@@ -43,7 +43,7 @@ JetBrains users and tactile switch lovers, you're especially welcome :white_hear
 
 Come here to get updates!
 
-- https://tapptype.com
+- https://tappytype.com
 - https://instagram.com/tappytype
 - https://apps.apple.com/us/app/tappytype/id6777860562
 
