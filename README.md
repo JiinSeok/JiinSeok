@@ -4,7 +4,55 @@
 
 ---
 
-## BREAKING NEWS: 첫 번째 npm 패키지 출시! (축 데뷔)
+:fairy_woman: _a frontend developer with a knack for uncovering problems and weaving them into **clean & magical** solutions_ :fairy_woman:
+
+And always on the lookout for great plugins :gear: and switches! :keyboard: Any favorites to share? <br>
+**Feel free to reach me at** [**seokjiin1073@gmail.com**](mailto:seokjiin1073@gmail.com) <br>
+JetBrains users and tactile switch lovers, you're especially welcome :white_heart: <br>
+
+**Fun fact:** I used to be a QA engineer, and I still obsess over **seamless** user experiences!
+
+
+### Summary of my skills:
+- **Languages & Frameworks**
+
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFE44A?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-58C4DC?style=flat-square&logo=React&logoColor=white"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/RubyOnRails-d30005?style=flat-square&logo=RubyOnRails&logoColor=white"/>  
+  
+  <br>
+- **Tools**
+
+  <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-007ACC?style=flat-square&logo=WebStorm&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-FF7262?style=flat-square&logo=Figma&logoColor=white" />
+
+
+### Currently working on:
+
+- 🛠 **Refactoring**: Improving my Next.js + TypeScript applications
+- 📖 **Learning**: Diving into HTTP concepts
+- 🌍 **Exploring**: Accessibility (making sure digital information is accessible through every possible way)
+
+
+:genie: _Excited to connect and craft **clean & magical** experiences together!_ :genie:
+
+---
+
+## BREAKING NEWS: iOS App is now available on the App Store!
+
+Come here to get updates!
+
+https://tapptype.com
+https://instagram.com/tappytype
+https://apps.apple.com/us/app/tappytype/id6777860562
+
+
+---
+
+## BREAKING NEWS: npm 패키지 출시!
 
 **FormKit React** - React 폼 라이브러리가 드디어 공개되었습니다!
 
@@ -16,12 +64,12 @@ npm i @jiin.seok/formkit-react
 ```
 
 ### 특징
-- 🎯 **Compound Component Pattern**으로 깔끔한 API
-- 🔒 **비밀번호 토글 & 비밀번호 일치 검증** 자동 생성
-- ✅ **Zod 스키마** 지원 (선택사항)
-- 🎮 **React Hook Form** 기반 상태 관리
-- ♿ **접근성** 완벽 지원 (ARIA 자동 처리)
-- 🎛️ **고급 Select** 컴포넌트 (Radix UI 활용)
+- **Compound Component Pattern**으로 깔끔한 API
+- **비밀번호 토글 & 비밀번호 일치 검증** 자동 생성
+- **Zod 스키마** 지원 (선택사항)
+- **React Hook Form** 기반 상태 관리
+- **접근성** 완벽 지원 (ARIA 자동 처리)
+- **고급 Select** 컴포넌트 (Radix UI 활용)
 
 ### 이럴 때 추천
 - 😵‍💫 useState 10개 선언하다 지칠 때 
@@ -56,38 +104,4 @@ npm i @jiin.seok/formkit-react
     <FormKit.SubmitButton>Login</FormKit.SubmitButton>
   </FormKit.Root>
 ```
----
-
-:fairy_woman: _a frontend developer with a knack for uncovering problems and weaving them into **clean & magical** solutions_ :fairy_woman:
-
-And always on the lookout for great plugins :gear: and switches! :keyboard: Any favorites to share? <br>
-**Feel free to reach me at** [**seokjiin1073@gmail.com**](mailto:seokjiin1073@gmail.com) <br>
-JetBrains users and tactile switch lovers, you're especially welcome :white_heart: <br>
-
-**Fun fact:** I used to be a QA engineer, and I still obsess over **seamless** user experiences!
-
-
-### Summary of my skills:
-- **Languages & Frameworks**
-
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3776AB?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFE44A?style=flat-square&logo=JavaScript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-58C4DC?style=flat-square&logo=React&logoColor=white"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-181717?style=flat-square&logo=Next.js&logoColor=white"/>
-  <br>
-- **Tools**
-
-  <img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-007ACC?style=flat-square&logo=WebStorm&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-FF7262?style=flat-square&logo=Figma&logoColor=white" />
-
-
-### Currently working on:
-
-- 🛠 **Refactoring**: Improving my Next.js + TypeScript applications
-- 📖 **Learning**: Diving into HTTP concepts
-- 🌍 **Exploring**: Accessibility (making sure digital information is accessible through every possible way)
-
-
-:genie: _Excited to connect and craft **clean & magical** experiences together!_ :genie:
 
