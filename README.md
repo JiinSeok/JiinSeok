@@ -31,7 +31,7 @@ JetBrains users and tactile switch lovers, you're especially welcome :white_hear
 ### Currently working on:
 
 - 🛠 **Developing**: Improving my Swift application
-- 📖 **Learning**: Diving into Elixer!
+- 📖 **Learning**: Diving into Elixir!
 - 🌍 **Exploring**: Accessibility (making sure digital information is accessible through every possible way)
 
 
