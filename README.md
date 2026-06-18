@@ -1,3 +1,5 @@
+<img align="right" width="170" src="dev-jiin.png" alt="Jiin Seok — 노트북을 든 도트 캐릭터" />
+
 <h2>
   Hi, I'm Jiin Seok from Korea 😽
 </h2>
